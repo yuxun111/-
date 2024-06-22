@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    background-image: url('11.jpg'); /* 替换为您自己的图片路径 */
+    background-size: cover; /* 使背景图片覆盖整个元素 */
+    background-repeat: no-repeat; /* 不重复背景图片 */
+    background-position: center center; /* 背景图片居中 */
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+}
